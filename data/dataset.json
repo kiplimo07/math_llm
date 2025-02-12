@@ -1,0 +1,10 @@
+[
+    {
+        "problem": "Find the derivative of $f(x) = x^2 + 3x + 2$.",
+        "solution": "To find the derivative of $f(x) = x^2 + 3x + 2$, apply the power rule: \\[ f'(x) = \\frac{d}{dx}(x^2) + \\frac{d}{dx}(3x) + \\frac{d}{dx}(2) \\] \\[ f'(x) = 2x + 3 + 0 \\] \\[ f'(x) = 2x + 3 \\]"
+    },
+    {
+        "problem": "Solve the differential equation: $\\frac{dy}{dx} = 2x$",
+        "solution": "To solve $\\frac{dy}{dx} = 2x$, integrate both sides: \\[ \\int dy = \\int 2x \\, dx \\] \\[ y = x^2 + C \\]"
+    }
+]
